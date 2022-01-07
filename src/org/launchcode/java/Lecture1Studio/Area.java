@@ -1,7 +1,6 @@
-package org.launchcode.java.studios.areaofacircle;
+package org.launchcode.java.Lecture1Studio;
 
 import java.util.Scanner;
-import java.lang.Math;
 
 public class Area {
     public static void main(String[] args){
